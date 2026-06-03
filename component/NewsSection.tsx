@@ -45,7 +45,7 @@ const NewsCard = ({ article }: { article: typeof articles[0] }) => {
       </div>
 
       {/* --- CONTENT AREA --- */}
-      <div className="p-6 lg:p-8 flex flex-col flex-grow">
+      <div className="p-6 lg:p-8 flex flex-col grow">
         {/* Meta Info */}
         <div className="flex items-center gap-6 mb-4">
           <div className="flex items-center gap-2 text-amber-500 text-xs font-bold uppercase tracking-wider">

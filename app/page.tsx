@@ -31,10 +31,6 @@ function Home() {
         <EventSection />
         <CtaMapSection />
         <NewsSection />
-      
-
-      
-        
       </div>
   );
 }
